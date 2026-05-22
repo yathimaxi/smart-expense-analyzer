@@ -89,4 +89,14 @@ Features interactive visualizations such as:
 * Real-time analytics
 
 ---
+## 📸 Output Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### AI Insights
+![AI Insights](screenshots/insights.png)
+
+### Anomaly Detection & Expense Prediction
+![Anomaly Detection & Expense Prediction](screenshots/AnomalyDetection&ExpensePrediction.png)
 
